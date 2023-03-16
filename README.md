@@ -1,2 +1,3 @@
 # PrepCourse_Gaby
-Este es un repositorio de prueba.
+Gabriel M
+Este proyecto es una prueba de como crear y clonar un repositorio desde gitbush
